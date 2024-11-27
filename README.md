@@ -1,5 +1,8 @@
-# Copyright (c) 2024, Rafael Urbanek Laurentino
-# Todos os direitos reservados.
+___
+#### Copyright (c) 2024, Rafael Urbanek Laurentino
+#### Todos os direitos reservados.
+___
+# Lista telefônica em Python com interface
  
 Desenvolvimento do projeto individual da disciplina de Engenharia de Software, do programa Talento Tech em parceria 
 com a Universidade Estadual de Ponta Grossa e o Governo do Estado do Paraná. O projeto visa colocar em ação os conceitos de controle de versão e colaboração com o Git explorando o fluxo de trabalho de um projeto de software, desde a criação e planejamento inicial até a documentação e apresentação final, aplicando as melhores práticas de versionamento e organização.
