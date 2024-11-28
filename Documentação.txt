@@ -1,0 +1,17 @@
+# Documentação do Projeto Lista Telefônica
+
+## Como o Git foi utilizado
+    *A utilização do Git foi essencial para gerenciar as mudanças no código ao longo do desenvolvimento. Durante o projeto, criei 
+     diferentes branches para separar as funcionalidades em andamento, o que permitiu um fluxo de trabalho organizado. A cada nova 
+     funcionalidade implementada, realizava commits com mensagens claras sobre o que havia sido feito, e após a finalização 
+     de uma tarefa ou funcionalidade, fazia o merge da branch com a principal (main).
+    *Branches criadas:
+     interface: Focada no desenvolvimento da interface gráfica com Tkinter.
+     contatos: Responsável pela implementação das classes de Contato e ListaTelefonica.
+
+
+## Funcionalidades Implementadas
+- Tela inicial com campo para adicionar contato.
+- Cadastro de nome, telefone e email.
+- Exibição da lista de contatos.
+- Edição e exclusão de contatos.
